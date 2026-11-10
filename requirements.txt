@@ -1,0 +1,9 @@
+# pip alternative to environment.yml (Python 3.8). Same packages, same matplotlib pin.
+numpy
+matplotlib==3.5.1
+scipy
+scikit-learn
+ipykernel
+mat73
+ica
+ipympl
